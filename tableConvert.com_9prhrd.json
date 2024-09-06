@@ -1,0 +1,7986 @@
+[
+    {
+        "ekod": "E 100",
+        "kmisim": "Kurkumin",
+        "kmkaynak": "Bitkisel (Zerdeçal)",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Baharatlar, hazır gıdalar, soslar",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 101",
+        "kmisim": "Riboflavinler",
+        "kmkaynak": "Bitkisel, Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Tahıl ürünleri, süt ürünleri",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 102",
+        "kmisim": "Tartrazin",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Şekerlemeler, içecekler, atıştırmalıklar",
+        "saglikdegerlendirme": "Alerjik reaksiyonlar ve çocuklarda hiperaktiviteye yol açabilir. Astım hastaları dikkat etmeli."
+    },
+    {
+        "ekod": "E 104",
+        "kmisim": "Kinolin Sarısı",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Şekerlemeler, içecekler, reçeller",
+        "saglikdegerlendirme": "Çocuklarda hiperaktiviteye neden olabilir. Alerjik reaksiyon riski vardır."
+    },
+    {
+        "ekod": "E 110",
+        "kmisim": "Sunset Yellow FCF / Orange Yellow S",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Şekerlemeler, dondurmalar, içecekler",
+        "saglikdegerlendirme": "Çocuklarda hiperaktiviteye yol açabilir. Alerjik reaksiyonlara neden olabilir."
+    },
+    {
+        "ekod": "E 120",
+        "kmisim": "Karminik Asit, Karmin",
+        "kmkaynak": "Hayvansal (Böcek)",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Et ürünleri, kozmetik, şekerlemeler",
+        "saglikdegerlendirme": "Alerjik reaksiyonlara neden olabilir. Vegan ve vejetaryenler için uygun değildir."
+    },
+    {
+        "ekod": "E 122",
+        "kmisim": "Azorubin, Karmazin",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Şekerlemeler, içecekler, reçeller",
+        "saglikdegerlendirme": "Çocuklarda hiperaktivite riskini artırabilir. Bazı alerjik reaksiyonlara yol açabilir."
+    },
+    {
+        "ekod": "E 123",
+        "kmisim": "Amarant",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Likörler, tatlılar, içecekler",
+        "saglikdegerlendirme": "Böbrek sorunları olanlar kaçınmalı. Kanserojen olma riski nedeniyle bazı ülkelerde yasaklanmıştır."
+    },
+    {
+        "ekod": "E 124",
+        "kmisim": "Ponceau 4R, Koşineal Red A",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Şekerlemeler, reçeller, atıştırmalıklar",
+        "saglikdegerlendirme": "Çocuklarda hiperaktiviteye neden olabilir. Alerjik reaksiyonlar görülebilir."
+    },
+    {
+        "ekod": "E 127",
+        "kmisim": "Eritrosin",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Maraschino kirazı, tatlılar",
+        "saglikdegerlendirme": "Tiroit fonksiyonlarını etkileyebilir. Böbrek ve karaciğer hastaları dikkat etmeli."
+    },
+    {
+        "ekod": "E 129",
+        "kmisim": "Allura Red AC",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Şekerlemeler, dondurmalar, içecekler",
+        "saglikdegerlendirme": "Çocuklarda hiperaktivite riskini artırabilir. Alerjik reaksiyonlara neden olabilir."
+    },
+    {
+        "ekod": "E 131",
+        "kmisim": "Patent Blue V",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Tatlılar, içecekler, şekerlemeler",
+        "saglikdegerlendirme": "Alerjik reaksiyon riski vardır. Astım hastaları dikkat etmeli."
+    },
+    {
+        "ekod": "E 132",
+        "kmisim": "Indigotin (Indigo Carmine)",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "İçecekler, şekerlemeler, reçeller",
+        "saglikdegerlendirme": "Alerjik reaksiyon riski vardır. Bazı durumlarda sindirim problemleri görülebilir."
+    },
+    {
+        "ekod": "E 133",
+        "kmisim": "Brilliant Blue FCF",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Dondurmalar, tatlılar, içecekler",
+        "saglikdegerlendirme": "Çocuklarda hiperaktiviteye neden olabilir. Alerjik reaksiyonlara yol açabilir."
+    },
+    {
+        "ekod": "E 140",
+        "kmisim": "Klorofiller ve Klorofilinler",
+        "kmkaynak": "Bitkisel (Bitkiler)",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "İçecekler, ilaçlar, kozmetik",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 141",
+        "kmisim": "Klorofillerin ve Klorofilinlerin Bakır Kompleksleri",
+        "kmkaynak": "Bitkisel + Mineral",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Şekerlemeler, dondurmalar",
+        "saglikdegerlendirme": "Yüksek miktarda tüketimi toksik olabilir. Bakır birikimine dikkat edilmeli."
+    },
+    {
+        "ekod": "E 142",
+        "kmisim": "Green S",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Dondurmalar, şekerlemeler, reçeller",
+        "saglikdegerlendirme": "Alerjik reaksiyonlara neden olabilir. Çocuklarda hiperaktivite riskini artırabilir."
+    },
+    {
+        "ekod": "E 150a",
+        "kmisim": "Sade Karamel",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "İçecekler (kola), tatlılar",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 150b",
+        "kmisim": "Kostik Sülfit Karamel",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Alkol, sirke",
+        "saglikdegerlendirme": "Alerjik reaksiyonlar görülebilir. Astım hastaları dikkat etmeli."
+    },
+    {
+        "ekod": "E 150c",
+        "kmisim": "Amonyak Karamel",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Alkollü içecekler, soslar",
+        "saglikdegerlendirme": "Fazla tüketim sindirim sorunlarına yol açabilir. Alerjik reaksiyon riski vardır."
+    },
+    {
+        "ekod": "E 150d",
+        "kmisim": "Amonyum Sülfit Karamel",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Kola, soslar, şekerlemeler",
+        "saglikdegerlendirme": "Yüksek miktarda tüketimi toksik olabilir. Alerjik reaksiyon riski vardır."
+    },
+    {
+        "ekod": "E 151",
+        "kmisim": "Brilliant Black PN",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Şekerlemeler, içecekler, dondurmalar",
+        "saglikdegerlendirme": "Alerjik reaksiyonlara neden olabilir. Böbrek hastaları dikkat etmeli."
+    },
+    {
+        "ekod": "E 153",
+        "kmisim": "Bitkisel Karbon",
+        "kmkaynak": "Bitkisel (Odun)",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Şekerlemeler, kozmetik",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 155",
+        "kmisim": "Brown HT",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Kekler, şekerlemeler, içecekler",
+        "saglikdegerlendirme": "Çocuklarda hiperaktivite riskini artırabilir. Alerjik reaksiyon riski vardır."
+    },
+    {
+        "ekod": "E 160a",
+        "kmisim": "Karotenler",
+        "kmkaynak": "Bitkisel (Havuç)",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Süt ürünleri, margarin, içecekler",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 160b(i)",
+        "kmisim": "Annatto (Biksin)",
+        "kmkaynak": "Bitkisel (Tohumlar)",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Süt ürünleri, margarin, dondurmalar",
+        "saglikdegerlendirme": "Alerjik reaksiyonlara yol açabilir."
+    },
+    {
+        "ekod": "E 160b(ii)",
+        "kmisim": "Annatto (Norbiksin)",
+        "kmkaynak": "Bitkisel (Tohumlar)",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Süt ürünleri, margarin, dondurmalar",
+        "saglikdegerlendirme": "Alerjik reaksiyonlara neden olabilir. Genel olarak güvenlidir."
+    },
+    {
+        "ekod": "E 160c",
+        "kmisim": "Paprika Ekstraktı (Kapsantin, Kapsorubin)",
+        "kmkaynak": "Bitkisel (Biber)",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Soslar, et ürünleri, baharatlar",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 160d",
+        "kmisim": "Likopen",
+        "kmkaynak": "Bitkisel (Domates)",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "İçecekler, şekerlemeler",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 160e",
+        "kmisim": "Beta-apo-8'-karotenal (C30)",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "İçecekler, şekerlemeler",
+        "saglikdegerlendirme": "Alerjik reaksiyonlara yol açabilir."
+    },
+    {
+        "ekod": "E 161b",
+        "kmisim": "Lutein",
+        "kmkaynak": "Bitkisel (Yeşil bitkiler)",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "İçecekler, kozmetik",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 161g",
+        "kmisim": "Kantaksantin",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "İçecekler, kozmetik, hayvansal yemler",
+        "saglikdegerlendirme": "Aşırı tüketimi ciltte renk değişimlerine yol açabilir."
+    },
+    {
+        "ekod": "E 162",
+        "kmisim": "Pancar Kökü Kırmızısı (Betanin)",
+        "kmkaynak": "Bitkisel (Pancar)",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "İçecekler, şekerlemeler, dondurmalar",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 163",
+        "kmisim": "Antosiyaninler",
+        "kmkaynak": "Bitkisel (Meyveler)",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Şarap, meyve suyu, reçeller",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 170",
+        "kmisim": "Kalsiyum Karbonat",
+        "kmkaynak": "Mineral",
+        "kmislev": "Emülgatör",
+        "kmkullanimalanlari": "Fırın ürünleri, ilaçlar",
+        "saglikdegerlendirme": "Aşırı tüketim böbrek taşı riskini artırabilir."
+    },
+    {
+        "ekod": "E 172",
+        "kmisim": "Demir Oksit ve Hidroksitler",
+        "kmkaynak": "Mineral",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Kozmetik, ilaçlar",
+        "saglikdegerlendirme": "Aşırı tüketimi karaciğer ve kalp sorunlarına yol açabilir."
+    },
+    {
+        "ekod": "E 173",
+        "kmisim": "Alüminyum",
+        "kmkaynak": "Mineral",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Kozmetik, şekerlemeler",
+        "saglikdegerlendirme": "Toksik olabilir. Aşırı tüketimden kaçınılmalı."
+    },
+    {
+        "ekod": "E 174",
+        "kmisim": "Gümüş",
+        "kmkaynak": "Mineral",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Şekerlemeler, dekoratif gıda ürünleri",
+        "saglikdegerlendirme": "Genel olarak güvenlidir ancak aşırı tüketim toksik olabilir."
+    },
+    {
+        "ekod": "E 175",
+        "kmisim": "Altın",
+        "kmkaynak": "Mineral",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Şekerlemeler, dekoratif gıda ürünleri",
+        "saglikdegerlendirme": "Genel olarak güvenlidir ancak aşırı tüketim toksik olabilir."
+    },
+    {
+        "ekod": "E 180",
+        "kmisim": "Litolrubin BK",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Peynir kaplamaları",
+        "saglikdegerlendirme": "Alerjik reaksiyon riski vardır. Çocuklarda dikkatli tüketilmelidir."
+    },
+    {
+        "ekod": "E 420",
+        "kmisim": "Sorbitoller",
+        "kmkaynak": "Sentetik, Bitkisel",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Sakız, şekerlemeler, diyet gıdalar",
+        "saglikdegerlendirme": "Yüksek miktarda tüketimi müshil etkisi yaratabilir. Diyabet hastaları için uygundur."
+    },
+    {
+        "ekod": "E 421",
+        "kmisim": "Mannitol",
+        "kmkaynak": "Sentetik, Bitkisel",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Sakız, diyet ürünleri, ilaçlar",
+        "saglikdegerlendirme": "Aşırı tüketimi müshil etkisine neden olabilir. Diyabet hastaları dikkatle tüketmeli."
+    },
+    {
+        "ekod": "E 950",
+        "kmisim": "Asesülfam K",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Diyet içecekler, şekerlemeler",
+        "saglikdegerlendirme": "Genel olarak güvenlidir. Yüksek miktarda tüketimi böbrek fonksiyonlarını etkileyebilir."
+    },
+    {
+        "ekod": "E 951",
+        "kmisim": "Aspartam",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Diyet içecekler, tatlandırıcılar, sakızlar",
+        "saglikdegerlendirme": "Fenilketonüri (PKU) hastaları tüketmemelidir. Bazı kişilerde baş ağrısı yapabilir."
+    },
+    {
+        "ekod": "E 952",
+        "kmisim": "Siklamatlar",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Diyet ürünleri, içecekler, tatlandırıcılar",
+        "saglikdegerlendirme": "Yüksek miktarda tüketimi kanser riskiyle ilişkilendirilmiştir. Bazı ülkelerde yasaklanmıştır."
+    },
+    {
+        "ekod": "E 953",
+        "kmisim": "İzomalt",
+        "kmkaynak": "Sentetik, Bitkisel",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Şekerlemeler, diyet ürünleri",
+        "saglikdegerlendirme": "Genel olarak güvenlidir ancak aşırı tüketimi sindirim sorunlarına yol açabilir."
+    },
+    {
+        "ekod": "E 954",
+        "kmisim": "Sakkarinler",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Diyet içecekler, tatlandırıcılar",
+        "saglikdegerlendirme": "Bazı kişilerde alerjik reaksiyonlara neden olabilir. Kanser riski ile ilgili tartışmalar mevcuttur."
+    },
+    {
+        "ekod": "E 955",
+        "kmisim": "Sukraloz",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Tatlandırıcılar, diyet içecekler",
+        "saglikdegerlendirme": "Genel olarak güvenlidir. Aşırı tüketimi bağırsak mikrobiyotasını etkileyebilir."
+    },
+    {
+        "ekod": "E 957",
+        "kmisim": "Taumatin",
+        "kmkaynak": "Doğal (Bitkisel)",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Şekerlemeler, ilaçlar",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 959",
+        "kmisim": "Neohesperidin dihidrokalkon",
+        "kmkaynak": "Sentetik, Bitkisel",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Diyet içecekler, şekerlemeler",
+        "saglikdegerlendirme": "Alerjik reaksiyonlara neden olabilir. Genel olarak güvenlidir."
+    },
+    {
+        "ekod": "E 960a",
+        "kmisim": "Steviadan steviol glikozitler",
+        "kmkaynak": "Doğal (Bitkisel)",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Tatlandırıcılar, diyet içecekler",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 960c",
+        "kmisim": "Enzimatik olarak üretilmiş steviol glikozitler",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Tatlandırıcılar, içecekler",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 960d",
+        "kmisim": "Glukosile steviol glikozitler",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Diyet içecekler, tatlandırıcılar",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 961",
+        "kmisim": "Neotam",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Tatlandırıcılar, diyet içecekler",
+        "saglikdegerlendirme": "Genel olarak güvenlidir. Yüksek dozlarda baş ağrısına neden olabilir."
+    },
+    {
+        "ekod": "E 962",
+        "kmisim": "Aspartam-Asesülfam Tuzu",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Tatlandırıcılar, diyet içecekler",
+        "saglikdegerlendirme": "Fenilketonüri (PKU) hastaları tüketmemelidir. Alerjik reaksiyon riski vardır."
+    },
+    {
+        "ekod": "E 964",
+        "kmisim": "Poliglisitol şurup",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Şekerlemeler, sakızlar",
+        "saglikdegerlendirme": "Aşırı tüketimi müshil etkisine neden olabilir."
+    },
+    {
+        "ekod": "E 965",
+        "kmisim": "Maltitoller",
+        "kmkaynak": "Sentetik, Bitkisel",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Şekerlemeler, sakızlar, diyet ürünleri",
+        "saglikdegerlendirme": "Yüksek miktarda tüketimi müshil etkisi yapabilir."
+    },
+    {
+        "ekod": "E 966",
+        "kmisim": "Laktitol",
+        "kmkaynak": "Sentetik, Hayvansal",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Diyet ürünleri, ilaçlar, şekerlemeler",
+        "saglikdegerlendirme": "Yüksek miktarda tüketimi gaz ve şişkinlik yapabilir. Müshil etkisi yaratabilir."
+    },
+    {
+        "ekod": "E 967",
+        "kmisim": "Ksilitol",
+        "kmkaynak": "Bitkisel (Ağaçlar)",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Sakızlar, diş macunları, diyet ürünleri",
+        "saglikdegerlendirme": "Yüksek dozda müshil etkisi yaratabilir. Diyabet dostudur."
+    },
+    {
+        "ekod": "E 968",
+        "kmisim": "Eritritol",
+        "kmkaynak": "Sentetik, Bitkisel",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Şekerlemeler, içecekler, tatlandırıcılar",
+        "saglikdegerlendirme": "Genel olarak güvenlidir. Yüksek miktarda tüketimi gaz ve şişkinlik yapabilir."
+    },
+    {
+        "ekod": "E 969",
+        "kmisim": "Advantam",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Tatlandırıcı",
+        "kmkullanimalanlari": "Tatlandırıcılar, diyet içecekler",
+        "saglikdegerlendirme": "Genel olarak güvenlidir. Aşırı tüketimden kaçınılmalıdır."
+    },
+    {
+        "ekod": "E 170",
+        "kmisim": "Kalsiyum karbonat",
+        "kmkaynak": "Mineral",
+        "kmislev": "Antiasit, Stabilizatör",
+        "kmkullanimalanlari": "Fırın ürünleri, ilaçlar",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 172",
+        "kmisim": "Demir oksit ve hidroksitler",
+        "kmkaynak": "Mineral",
+        "kmislev": "Renklendirici",
+        "kmkullanimalanlari": "Kozmetik, ilaçlar",
+        "saglikdegerlendirme": "Karaciğer ve kalp hastalıkları olanların kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 200",
+        "kmisim": "Sorbik asit",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Gıda, meyve suları, şekerlemeler",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 202",
+        "kmisim": "Potasyum sorbat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Peynir, şarap, şekerlemeler",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 210",
+        "kmisim": "Benzoik asit",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "İçecekler, şekerlemeler, koruyucu gıdalar",
+        "saglikdegerlendirme": "Alerjik bünyeler, astım hastalarıın kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 211",
+        "kmisim": "Sodyum benzoat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "İçecekler, turşular, soslar",
+        "saglikdegerlendirme": "Astım ve alerjik reaksiyon riski olanların kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 212",
+        "kmisim": "Potasyum benzoat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Şekerlemeler, içecekler",
+        "saglikdegerlendirme": "Astım ve alerjik bünyelerın kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 213",
+        "kmisim": "Kalsiyum benzoat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Konserve yiyecekler, şekerlemeler",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 214",
+        "kmisim": "Etil-p-hidroksibenzoat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Şekerlemeler, turşular",
+        "saglikdegerlendirme": "Alerjik reaksiyon riski olanların kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 215",
+        "kmisim": "Sodyum etil p-hidroksibenzoat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Şekerlemeler, içecekler",
+        "saglikdegerlendirme": "Alerjik reaksiyon riski olanların kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 218",
+        "kmisim": "Metil p-hidroksibenzoat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Gıda ürünleri, kozmetik",
+        "saglikdegerlendirme": "Alerjik reaksiyon riski olanların kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 219",
+        "kmisim": "Sodyum metil p-hidroksibenzoat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Şekerlemeler, turşular",
+        "saglikdegerlendirme": "Alerjik reaksiyon riski olanların kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 220",
+        "kmisim": "Kükürt dioksit",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Şarap, kurutulmuş meyve, sirke",
+        "saglikdegerlendirme": "Astım ve alerjik reaksiyon riski olanların kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 221",
+        "kmisim": "Sodyum sülfit",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Gıda ürünleri, kurutulmuş meyveler",
+        "saglikdegerlendirme": "Astım hastalarıın kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 222",
+        "kmisim": "Sodyum hidrojen sülfit",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Gıda ürünleri",
+        "saglikdegerlendirme": "Astım hastalarıın kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 223",
+        "kmisim": "Sodyum metabisülfit",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Gıda ürünleri, kurutulmuş meyveler",
+        "saglikdegerlendirme": "Astım hastalarıın kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 224",
+        "kmisim": "Potasyum metabisülfit",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Gıda ürünleri",
+        "saglikdegerlendirme": "Astım hastalarıın kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 226",
+        "kmisim": "Kalsiyum sülfit",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Konserveler, içecekler",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 227",
+        "kmisim": "Kalsiyum hidrojen sülfit",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Gıda ürünleri",
+        "saglikdegerlendirme": "Astım hastalarıın kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 228",
+        "kmisim": "Potasyum hidrojen sülfit",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Gıda ürünleri",
+        "saglikdegerlendirme": "Astım ve alerjik reaksiyon riski olanların kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 234",
+        "kmisim": "Nisin",
+        "kmkaynak": "Doğal (Bakteri Kaynaklı)",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Süt ürünleri, et ürünleri",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 235",
+        "kmisim": "Natamisin",
+        "kmkaynak": "Doğal (Bakteri Kaynaklı)",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Peynir, şarap, et ürünleri",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 239",
+        "kmisim": "Hekzametilen tetramin",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Peynir",
+        "saglikdegerlendirme": "Yüksek dozlarda toksik etki yaratabilirın kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 242",
+        "kmisim": "Dimetil dikarbonat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "İçecekler, gıda koruyucu maddeleri",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 243",
+        "kmisim": "Etil laurol arjinat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Et ürünleri, balık ürünleri",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 246",
+        "kmisim": "Glikolipitler",
+        "kmkaynak": "Doğal (Bitkisel)",
+        "kmislev": "Emülgatör",
+        "kmkullanimalanlari": "Şekerlemeler, fırın ürünleri",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 249",
+        "kmisim": "Potasyum nitrit",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Et ürünleri, konserveler",
+        "saglikdegerlendirme": "Kanser riski taşıyanların kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 250",
+        "kmisim": "Sodyum nitrit",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Et ürünleri, konserveler",
+        "saglikdegerlendirme": "Kanser riski taşıyanların kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 251",
+        "kmisim": "Sodyum nitrat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Et ürünleri, şarküteri ürünleri",
+        "saglikdegerlendirme": "Kanser riski taşıyanların kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 252",
+        "kmisim": "Potasyum nitrat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Et ürünleri, şarküteri ürünleri",
+        "saglikdegerlendirme": "Kanser riski taşıyanların kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 260",
+        "kmisim": "Asetik asit",
+        "kmkaynak": "Doğal (Fermantasyon)",
+        "kmislev": "Asitlik Düzenleyici",
+        "kmkullanimalanlari": "Sirke, turşular",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 261",
+        "kmisim": "Potasyum asetatlar",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Asitlik Düzenleyici",
+        "kmkullanimalanlari": "Gıda ürünleri",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 262",
+        "kmisim": "Sodyum asetatlar",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Asitlik Düzenleyici",
+        "kmkullanimalanlari": "Gıda ürünleri",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 263",
+        "kmisim": "Kalsiyum asetat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Asitlik Düzenleyici",
+        "kmkullanimalanlari": "Gıda ürünleri, fırın ürünleri",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 270",
+        "kmisim": "Laktik asit",
+        "kmkaynak": "Doğal (Fermantasyon)",
+        "kmislev": "Asitlik Düzenleyici",
+        "kmkullanimalanlari": "Süt ürünleri, fermente gıdalar",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 280",
+        "kmisim": "Propiyonik asit",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Ekmek, unlu mamuller",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 281",
+        "kmisim": "Sodyum propiyonat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Ekmek, unlu mamuller",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 282",
+        "kmisim": "Kalsiyum propiyonat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Ekmek, unlu mamuller",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 283",
+        "kmisim": "Potasyum propiyonat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Ekmek, unlu mamuller",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 284",
+        "kmisim": "Borik asit",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Yumurta ürünleri",
+        "saglikdegerlendirme": "Yüksek dozlarda toksik olabilirın kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 285",
+        "kmisim": "Sodyum tetraborat (boraks)",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Koruyucu",
+        "kmkullanimalanlari": "Yumurta ürünleri",
+        "saglikdegerlendirme": "Yüksek dozlarda toksik olabilirın kaçınması tavsiye edilmektedir."
+    },
+    {
+        "ekod": "E 290",
+        "kmisim": "Karbon dioksit",
+        "kmkaynak": "Doğal",
+        "kmislev": "Gazlayıcı",
+        "kmkullanimalanlari": "İçecekler, gıda ambalajları",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 296",
+        "kmisim": "Malik asit",
+        "kmkaynak": "Doğal (Meyveler)",
+        "kmislev": "Asitlik Düzenleyici",
+        "kmkullanimalanlari": "Şekerlemeler, içecekler",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 297",
+        "kmisim": "Fumarik asit",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Asitlik Düzenleyici",
+        "kmkullanimalanlari": "Şekerlemeler, içecekler",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 300",
+        "kmisim": "Askorbik asit",
+        "kmkaynak": "Doğal (C Vitamini)",
+        "kmislev": "Antioksidan",
+        "kmkullanimalanlari": "Gıda ürünleri, içecekler",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 301",
+        "kmisim": "Sodyum askorbat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Antioksidan",
+        "kmkullanimalanlari": "Gıda ürünleri, içecekler",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 302",
+        "kmisim": "Kalsiyum askorbat",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Antioksidan",
+        "kmkullanimalanlari": "Gıda ürünleri, içecekler",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 304",
+        "kmisim": "Askorbik asidin yağ asidi esterleri",
+        "kmkaynak": "Sentetik",
+        "kmislev": "Antioksidan",
+        "kmkullanimalanlari": "Gıda ürünleri",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 306",
+        "kmisim": "Tokoferolce zengin ekstrakt",
+        "kmkaynak": "Doğal (Bitkisel Yağlar)",
+        "kmislev": "Antioksidan",
+        "kmkullanimalanlari": "Gıda ürünleri, yağlar",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 307",
+        "kmisim": "Alfa-tokoferol",
+        "kmkaynak": "Doğal (E Vitamini)",
+        "kmislev": "Antioksidan",
+        "kmkullanimalanlari": "Gıda ürünleri, yağlar",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "E 308",
+        "kmisim": "Gama-tokoferol",
+        "kmkaynak": "Doğal (E Vitamini)",
+        "kmislev": "Antioksidan",
+        "kmkullanimalanlari": "Gıda ürünleri, yağlar",
+        "saglikdegerlendirme": "Sağlık riski yoktur, tüketebilirsiniz."
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    },
+    {
+        "ekod": "",
+        "kmisim": "",
+        "kmkaynak": "",
+        "kmislev": "",
+        "kmkullanimalanlari": "",
+        "saglikdegerlendirme": ""
+    }
+]
