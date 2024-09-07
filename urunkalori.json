@@ -13,7 +13,7 @@
         "lif": "2.6",
         "tuz": "1.9",
         "icindekiler": "Mısır, Bitkisel Yağ (palm yağı), Sos(%3)[renklendirici (paprika ekstraktı), tuz, şeker, aroma artırıcı (monosodyum glutamat), lezzet artırıcılar (E-627, E-631), Soya Lesitini (E-322)]",
-        "gorsel": "raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/cerezimSosluMisir.jpg",
+        "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png",
         "": ""
     },
     {
@@ -30,7 +30,7 @@
         "lif": "14.25",
         "tuz": "0.76",
         "icindekiler": "Tahin (%57), Şeker, Fruktoz Şurubu, Emülgatör (yağ asitlerinin mono ve digliseridleri bitkisel bitkisel üründen (Palm Stearin) elde edilmiştir.), Toz Kakao (%1), Çöven Ektraktı, Asitlik Düzenleyici (sitrik asit(E330)),",
-        "gorsel": "raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/filiztahinhelva.jpg",
+        "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/yulaf.png",
         "": ""
     },
     {
@@ -47,7 +47,7 @@
         "lif": "1",
         "tuz": "0.9",
         "icindekiler": "Kek %70[Buğday Unu (Gluten içerir), Şeker, Yumurta. Bitkisel Yağ (palm, Ayçiçek, Pamuk, Kanola), İnvert Şeker Şurubu, Nem Verici (Gliserol), Peynir Altı Suyu Tozu (Süt ürünü), Emülgatör (Yağ asitlerinin Mono ve Digliseritleri, Yağ asitlerinin Poligliserol esterleri), Tuz, Kabartıcılar (Sodyum Asit Pirofosfat, Sodyum Hidrojen Karbonat, Koruyucu (Sorbik Asit), Aroma Vericiler, Asitlik Düzenleyici (Sitrik Asit), Kıvam Artırıcı (Ksantam Gam), Muz Sosu %16 [Şeker, İnvert Şeker Şurubu, Yağ (Palm, Ayçiçek Kanola), Peynir Altı Suyu Tozu (Süt Ürünü), Nem Vericiler (Sorbitol, Gliserol), Modifiye Patates Nişastası, Tuz, Emulgatörler ( Yağ asitlerinin Mono ve Digliseritlerinin Laktik Asit Esterleri), Muz Tozu %0,2, Asitlik Düzenleyici (Sitrik Asit), Renklendirici (Beta Karoten), Aroma Verici, Koruyucu (Sorbik Asit)], Kakaolu Kaplama %14 [Şeker, Tam Hidrojenize Bitkisel Yağ (Palm), Peynir Alta Suyu Tozu (Süt Ürünü), Tam Yağlı Süt Tozu, Yağı Azaltılmış Kakao Tozu %5,7, Emülgatörler (Ayçiçek Lesitini, Poligliserol Polirisinoleat, Aroma Verici].",
-        "gorsel": "raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/etimuzlupopkek.jpg",
+        "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/ceviz.png",
         "": ""
     },
     {
