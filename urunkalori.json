@@ -217,7 +217,7 @@
         "lif": "10.4",
         "tuz": "0.8",
         "icindekiler": "İç yer fıstık, Modifiye Pirinç Nişastası, Patates Nişastası, Mısır Unu, Buğday Unu(Gluten içerir), Bitkisel Yağ (Palm Yağı), Şeker, Baharat Karışımı (Tuz, Şeker, Kurutulmuş Soğan ve Sarımsak, Kurutulmuş Domates) Tuz, Renklendirici (E-110, E-102)",
-        "gorsel": "raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/cerezimcipsfistik.jpg",
+        "gorsel": "https://raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/cerezimcipsfistik.jpg",
         "": ""
     },
     {
@@ -234,7 +234,7 @@
         "lif": "0.4",
         "tuz": "0.18",
         "icindekiler": "Çilekli Kremalı (%25) Sandviç Bisküvileri, İçindekiler: Buğday unu, şeker, bitkisel yağlar (palm, tam hidrojenize palm), nişasta, invert şeker şurubu, peyniraltı suyu tozu, kabartıcılar (amonyum hidrojen karbonat, sodyum hidrojen karbonat, disodyum difosfat), yağsız süttozu, tuz, çilek tozu (%0,1), aroma vericiler (süt içerir), emülgatör (soya lesitini), renklendirici (pancar kökü kırmızısı), asitlik düzenleyici (sitrik asit). ",
-        "gorsel": "raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/ulkercilekkremalirondo.jpg",
+        "gorsel": "https://raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/ulkercilekkremalirondo.jpg",
         "": ""
     },
     {
