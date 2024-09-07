@@ -64,7 +64,7 @@
         "lif": "3",
         "tuz": "0.68",
         "icindekiler": "Kakaolu Krema Dolgulu (%30) Bisküvi, İçindekiler: Buğday unu, şeker, bitkisel yağlar(palm, ayçiçek), invert şeker şurubu, yağı azaltılmış kakao tozu (%3), yumurta, fındık püresi, tuz, kabartıcılar (sodyum hifdrojen karbonat, disodyum difosfat), tam yağlı süttozu, emülgatörler (soya lesitini, poligliserol polirisinoleat), aroma vericiler (süt içerir), peynir altı suyu tozu.",
-        "gorsel": "raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/ulkerbiskrem.jpg",
+        "gorsel": "https://raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/ulkerbiskrem.jpg",
         "": ""
     },
     {
@@ -98,7 +98,7 @@
         "lif": "9.7",
         "tuz": "0.7",
         "icindekiler": "Tam çikolatam süt kremalı sütlü çikolatalı bisküvi, içindekiler: Bisküvi [Tam buğday unu (Gluten içerir)(%37),Buğday unu(Gluten içerir), Şeker(pancar şekeri), bitkisel yağ (palm, kanola, ayçiçek, pamuk), yulaf ezmesi (Gluten içerir)(%5), süt kreması, invert şeker şurubu (pancar şekeri şurubu), malt ekstraktı(Gluten içerir), pastörize yumurta, kabartıcılar (sodyum hidrojen karbonat, amonyum hidrojen karbonat, disodyum difosfat), tuz, tarçın, aroma verici (vanilin)], Sütlü çikolata %19 [Şeker (pancar şekeri), kakao yağı, kakao kitlesi, yağlı süt tozu(%10), demineralize peyniraltı suyu tozu (süt ürünü), bitkisel yağ (shea, palm), emülgatörler (ayçiçek lesitini, poligliserol polirisinolat), aroma verici (vanilin)], Sütlü krema %13[Şeker (pancar şekeri), bitkisel yağ (palm, kanola, ayçiçek, pamuk), buğday unu nişastası (gluten içerir), demineralize peyniraltı suyu tozu (süt ürünü), yağsız süt tozu (%5,8), emülgatör (ayçiçek lesitini), aroma verici (süt, vanilin)]. ",
-        "gorsel": "raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/torkutamçikolatam.jpg",
+        "gorsel": "https://raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/torkutamçikolatam.jpg",
         "": ""
     },
     {
@@ -132,7 +132,7 @@
         "lif": "1.4",
         "tuz": "0.34",
         "icindekiler": "Şeker, buğday unu, bitkisel yağlar (palm, tam hidrojenize palm çekirdeği), maltodekstrin, şekerle koyulaştırılmış yarım yağlı süt, kakao yağı, tam yağlı süttozu, invert şeker şurubu, kakao kitlesi, yağsız süttozu, peyniraltı suyu tozu, emülgatörler (amonyum fosfatitler, soya lesitini, yağ asitlerinin mono ve diglisetirleri, poligliserol polirisinolat), yağı azaltılmış kakou tozu, kabartıcılar (amonyum hidrojen karbonat, disoydum difosfat, sodyum hidrojen karbonat), nem verici (gliserol), tuz, yumurta akı tozu, nişasta, aroma vericiler.",
-        "gorsel": "raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/ulkeralbeni.jpg",
+        "gorsel": "https://raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/ulkeralbeni.jpg",
         "": ""
     },
     {
@@ -149,7 +149,7 @@
         "lif": "",
         "tuz": "0.12",
         "icindekiler": "Şeker, tam hidrojene bitkisel yağ (palm), glikoz şurubu, emülgatör (yağ asitlerinin mono ve digliseridlerinin laktik ve asetik asit esterleri, yağ asitlerinin mono ve digliseritleri), süt proteini (sodyum kazeinat), yağsız süt tozu, modifiye patates nişastası, aroma verici, kıvam arttırıcı (guar gam).",
-        "gorsel": "raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/droetkerkremsanti.jpg",
+        "gorsel": "https://raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/droetkerkremsanti.jpg",
         "": ""
     },
     {
@@ -166,7 +166,7 @@
         "lif": "2.7",
         "tuz": "0.62",
         "icindekiler": "Buğday unu, şeker, bitkisel yağlar (palm, tam hidrojenize palm), yağı azaltılmış kakao tozu (%3,2), invert şeker şurubu, kakao kitlesi, nişasta, tam yağlı süttozu, peynir altı suyu tozu, kabartıcılar (amonyum hidrojen karbonat, sodyum hidrojen karbonat), üzüm pekmezi, yağsız süttozu, tuz, emülgatörler (soya lesitini, yağ asitlerinin mono ve digliseritleri), aroma vericiler, un işlem maddesi (sodyum metabisülfit), asitlik düzenleyici (sitrik asit).",
-        "gorsel": "raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/ulkerikram.jpg",
+        "gorsel": "https://raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/ulkerikram.jpg",
         "": ""
     },
     {
@@ -183,7 +183,7 @@
         "lif": "0.4",
         "tuz": "0.35",
         "icindekiler": "Buğday unu, yumurta, şeker, su, bitkisel yağ(palm), invert şeker şurubu, nem vericiler (sorbitol, gliserol), maltodekstrin, hindistan cevizi (%2), peynir altı suyu tozu, modifiye nişasta, dekstroz, emülgatörler (yağ asitlerinin mono ve digliseritleri, yağ asitlerinin poligliseral esterleri, soya lestini), kabartıcılar (disodyum difosfat, sodyum hidrojen karbonat), tuz, koruyucular (potasyum sorbat, sodyum propiyonat, sorbik asit), yağı azaltılmış kakao tozu (%0,33), kıvam arttırıcılar(guar gam, karragenan), kakao kitlesi, asitlik düzenleyici(sitrik asit), aroma vericiler.",
-        "gorsel": "raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/ulkerdankekpotihindistancevizli.png",
+        "gorsel": "https://raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/ulkerdankekpotihindistancevizli.png",
         "": ""
     },
     {
@@ -200,7 +200,7 @@
         "lif": "",
         "tuz": "2.8",
         "icindekiler": "Buğday Unu (Glüten), Palm Yağı, Patates Nişastası, Tuz, Emülgatör (Yağ Asitlerinin Mono & Digliseritleri, Gliserol, Sorbitol, Yağ Asitlerinin Potasyum Tuzları), Asitlik Düzenleyici (Disodyum Fosfat, Sodyum Tripolifosfat, Sodyum Karbonat, Potasyum Karbonat), Kıvam Arttırıcı (Guar Gam) & Renklendirici (Riboflavin)",
-        "gorsel": "raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/indomiesebzelinoodle.jpg",
+        "gorsel": "https://raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/indomiesebzelinoodle.jpg",
         "": ""
     },
     {
@@ -234,7 +234,7 @@
         "lif": "0.4",
         "tuz": "0.18",
         "icindekiler": "Çilekli Kremalı (%25) Sandviç Bisküvileri, İçindekiler: Buğday unu, şeker, bitkisel yağlar (palm, tam hidrojenize palm), nişasta, invert şeker şurubu, peyniraltı suyu tozu, kabartıcılar (amonyum hidrojen karbonat, sodyum hidrojen karbonat, disodyum difosfat), yağsız süttozu, tuz, çilek tozu (%0,1), aroma vericiler (süt içerir), emülgatör (soya lesitini), renklendirici (pancar kökü kırmızısı), asitlik düzenleyici (sitrik asit). ",
-        "gorsel": "https://raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/ulkercilekkremalirondo.jpg",
+        "gorsel": "https://raw.githubusercontent.com/ahmethantalha/katki_maddeleri_api/main/urungorselleri/ulkercilekkremalirondo.jpeg",
         "": ""
     },
     {
